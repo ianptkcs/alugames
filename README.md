@@ -16,7 +16,7 @@ AluGames is a web-based platform designed to make game rentals easy and accessib
 To get started with AluGames, simply clone this repository and open `index.html` in your favorite browser.
 
 ```bash
-git clone https://github.com/ianptkcs/AluGames.git
+git clone https://github.com/ianptkcs/alugames.git
 cd AluGames
 open index.html # On macOS
 # or
